@@ -14,11 +14,6 @@ body{
     background-color: #2D6EBE;
     
 }
-.img{
-    margin-left: 600px;
-    margin-top: 50px;
-
-}
 
 .collapse{
     margin-left: 50px;
@@ -27,45 +22,24 @@ body{
     
     padding: 10px 20px;
     font-size: 30px;
-    margin-left: 250px;
+    margin-left: 300px;
+}
+.img1{
+    margin-left: 90px;
 }
 
-.docimg{
-    margin-bottom: 40px;
+.img2{
+    margin-left: 19cm;
 }
-
-.row{
-    margin-top: 3cm;
+#btn1{
+    margin-top: 30px;
+    width: 50px;
+    height: 50px;
+    border-radius: 120px;
 }
-
-.wrti{
-    font-size: 16px;
-    color: aliceblue;
+#viewbtn{
+    margin-top: 30px;
 }
-
-
-.form-outline{
-    
-    margin-right: 15cm;
+#row1{
+    margin-top: 30px;
 }
-#forget{
-    color: aliceblue;
-    
-    margin-right: 10cm;
-    
-}
-#sign{
-    margin-top: 20px;
-}
-
-
-#loginName{
-    margin-top: 5cm;
-}
-#docpic{
-    width: 100%;
-}
-
-
-
-

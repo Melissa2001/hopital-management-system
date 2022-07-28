@@ -1,5 +1,5 @@
 body{
-    background-image: url("img/Rec.png") ;
+    background-image: url("/Frontend/img/Rec.png") ;
     background-color: #cccccc;
     background-size: cover;
     background-repeat: no-repeat;
@@ -27,18 +27,18 @@ body{
 .img1{
     margin-left: 90px;
 }
+
 .img2{
-    margin-left: 20cm;
+    margin-left: 19cm;
 }
-#docdet{
+
+#nurdet{
     margin-left: 14cm;
 }
-#rbutton{
-    margin-left: 12cm;
+#bbutton{
+    margin-left: 10cm;
     height: 1.25cm;
     width: 3cm;
     
 
 }
-
-

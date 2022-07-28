@@ -14,11 +14,6 @@ body{
     background-color: #2D6EBE;
     
 }
-.img{
-    margin-left: 600px;
-    margin-top: 50px;
-
-}
 
 .collapse{
     margin-left: 50px;
@@ -27,45 +22,23 @@ body{
     
     padding: 10px 20px;
     font-size: 30px;
-    margin-left: 250px;
+    margin-left: 300px;
 }
-
-.docimg{
-    margin-bottom: 40px;
+.img1{
+    margin-left: 90px;
 }
-
-.row{
-    margin-top: 3cm;
+.img2{
+    margin-left: 20cm;
 }
-
-.wrti{
-    font-size: 16px;
-    color: aliceblue;
+#docdet{
+    margin-left: 14cm;
 }
-
-
-.form-outline{
+#rbutton{
+    margin-left: 10cm;
+    height: 1.25cm;
+    width: 3cm;
     
-    margin-right: 15cm;
-}
-#forget{
-    color: aliceblue;
-    
-    margin-right: 10cm;
-    
-}
-#sign{
-    margin-top: 20px;
-}
 
-
-#loginName{
-    margin-top: 5cm;
 }
-#docpic{
-    width: 100%;
-}
-
-
 
 
